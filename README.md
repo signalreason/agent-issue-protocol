@@ -15,7 +15,7 @@ coordinate work deterministically using GitHub as the system of record.
 - Issue schema v0.1 in `schema/issue.schema.json`.
 - Issue body format and lifecycle docs in `docs/`.
 - Issue and PR templates aligned with `agent-process-contract.md`.
-- A plan to add a CLI for create/claim/validate/complete (Milestones M1-M3).
+- A plan to add a Python 3.11 CLI for create/claim/validate/complete (M1-M3).
 
 ## Process expectations
 
